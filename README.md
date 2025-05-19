@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ITrifat
 - 👀 I’m interested in ... HTML, Css, javaScript, 
 - 🌱 I’m currently learning ...javaScript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... IBM 
 - 📫 How to reach me ... facbook: rifathassan373
 - 😄 Pronouns: ... He/Him 
 - ⚡ Fun fact: ... i'm new but expart
